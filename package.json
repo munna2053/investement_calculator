@@ -1,0 +1,17 @@
+{
+  "name": "investement_calculator",
+  "version": "1.0.0",
+  "description": "Calculate investment in different plan",
+  "main": "return.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "investestment",
+    "calculator",
+    "interest",
+    "calculator"
+  ],
+  "author": "",
+  "license": "ISC"
+}
